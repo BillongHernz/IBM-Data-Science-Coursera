@@ -1,0 +1,11 @@
+
+Q. Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
+
+
+
+ 
+A.
+
+Have you ever asked yourself how rent price and location could relate to each other? Or if based on rent place a location has certain tendencies in terms of venues? This business problem is both interesting to know about as well as useful for consumers and businesses. Knowing what tendencies there are in venues based on rent price of neighborhoods or  areas allows business to be able to cater their specific services for locations where their gain could be maximized. It also allows insight about how rent price can affect the venues that are in that area or how venues near that area could affect rent prices. 
+
+The target audience for this data exploration would be focused on business owners that are interested in creating new venues where the insight to this business problem would increase their revenue/business and decrease the risk of failure or negative results in opening one or more venues. A secondary audience could be people renting houses to get insights of how based on median rent prices of neighborhoods how the venues in that location could shape up and allow the renters to use that insight to make a better choice in their rent location.

@@ -1,0 +1,8 @@
+
+Q. Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data.
+
+
+
+A. 
+
+To tackle the business problem the data will have certain requirements. The first requirement of the data is to choose a city to make this exploration of data. Once a city has been chosen, data of neighborhoods will be needed: which will be name of neighborhood and the latitude and longitude of the neighborhood. Then, for as many neighborhoods as possible, data will be obtained for the most recent obtainable median or average rent price of each neighborhood. Once this is obtained these two data sets gathered will be merged, leaving out all neighborhoods that do not contain rent price data and averaging any neighborhood that contains more than one rent data for the neighborhood. Once this has been done, the Four quare location can be obtained and using the latitude and longitude the top 5-10 venues can be obtained and this data merged to the previous data. Now the data is ready to be evaluated and analyzed.
